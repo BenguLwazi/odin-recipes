@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+
+h1 {
+    margin-left: 800px;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.text{
+    font-size: 35px;
+    margin-left: 800px;
+    margin-top: 50px;
+    margin-right: 400px;
+    font-weight: bolder;
+    color: white;
+}
+
+.text.information{
+    margin-left: 400px;
+}
+
+.ingrediants{
+    margin-left: 700px;
+}
+
+img{
+    margin-left: 700px;
+    width: 500px;
+    height: auto;
+}
+
+.recipelist{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
